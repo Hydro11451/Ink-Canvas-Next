@@ -3,8 +3,8 @@
   # Ink Canvas Next
   **下一代墨迹解决方案** 
 
-  *Made with ❤ by [<picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/ShihaoShen2025.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/ShihaoShen2025.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/ShihaoShen2025">Shihao Shen</a>](https://github.com/ShihaoShen2025/)*
-
+  <!--*Made with ❤ by [<picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/ShihaoShen2025.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/ShihaoShen2025.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/ShihaoShen2025">Shihao Shen</a>](https://github.com/ShihaoShen2025/)*
+-->
   （还没开工呢……再等等吧）
 </div>
 
